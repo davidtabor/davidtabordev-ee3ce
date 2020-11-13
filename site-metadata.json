@@ -59,7 +59,7 @@
             },
             {
                 "label": "Github",
-                "url": "lorem-ipsum",
+                "url": "https://github.com/davidtabor",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
