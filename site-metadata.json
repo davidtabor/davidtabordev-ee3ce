@@ -62,7 +62,7 @@
                 "url": "https://github.com/davidtabor",
                 "style": "icon",
                 "icon_class": "fa-github-alt",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
