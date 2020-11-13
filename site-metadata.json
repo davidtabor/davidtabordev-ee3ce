@@ -69,7 +69,7 @@
                 "label": "Angel List",
                 "url": "https://angel.co/u/david-tabor-2",
                 "style": "icon",
-                "icon_class": "angellist",
+                "icon_class": "fa-angellist",
                 "new_window": false,
                 "type": "action"
             }
