@@ -59,7 +59,7 @@
                 "type": "action"
             },
             {
-                "label": "Teleegram",
+                "label": "Telegram",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
