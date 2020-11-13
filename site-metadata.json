@@ -61,7 +61,7 @@
                 "label": "Github",
                 "url": "https://github.com/davidtabor",
                 "style": "link",
-                "icon_class": "fa-git",
+                "icon_class": "fa-github-alt",
                 "new_window": false,
                 "type": "action"
             }
