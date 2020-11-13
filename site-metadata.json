@@ -62,7 +62,7 @@
                 "label": "Telegram",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": "telegram-plane",
+                "icon_class": "fa-telegram-plane",
                 "new_window": false,
                 "type": "action"
             }
