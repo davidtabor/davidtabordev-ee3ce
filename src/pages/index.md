@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m David Tabor. a front-End leaning, Full-Stack dev based in '
+    title: >-
+      Hi, I'm David Tabor - a Front-End leaning, Full-Stack dev remotely based
+      in SC, USA.
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
