@@ -68,7 +68,7 @@
             {
                 "label": "Angel List",
                 "url": "https://angel.co/u/david-tabor-2",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
