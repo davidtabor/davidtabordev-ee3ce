@@ -135,12 +135,22 @@
       transition: opacity .3s;
     }
 
+    .project-excerpt {
+      opacity: 0;
+      -webkit-transition: opacity .3s;
+      transition: opacity .3s;
+    }
+
     .project-link {
       color: #fff;
 
       &:hover,
       &:focus {
         .project-title {
+          opacity: 1;
+        }
+
+        .project-excerpt {
           opacity: 1;
         }
 
