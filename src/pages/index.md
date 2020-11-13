@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m David. A Front/Full-Stack dev remotely based in SC, USA.'
+    title: 'Hi, I''m David. A Front//Full-Stack dev remotely based in SC, USA.'
     content: >-
       My development philosophy is based on client-empathy and an understanding
       of how the sites I develop best meet client needs - not just accomplish
