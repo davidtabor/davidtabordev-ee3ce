@@ -1,6 +1,6 @@
 ---
 title: bestbench.com
-subtitle: 'Full-custom site for a '
+subtitle: Full-custom site for a recruiting firm
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 image: images/1.jpg
