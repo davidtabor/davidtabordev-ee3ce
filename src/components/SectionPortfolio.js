@@ -45,6 +45,7 @@ export default class SectionPortfolio extends React.Component {
                         )}
                         <header className="project-header">
                           <h3 className="project-title">{_.get(post, 'frontmatter.title', null)}</h3>
+                          <div className="project-excerpt">{_.get(post, 'frontmatter.excerpt', null)}</div>
                         </header>
                       </Link>
                       }
