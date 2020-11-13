@@ -8,8 +8,12 @@ sections:
       Hi, I'm David Tabor - a Front-End leaning, Full-Stack dev remotely based
       in SC, USA.
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      My development philosophy is based on client-empathy and an understanding
+      of how the sites I develop best meet client needs - not just accomplish
+      code on page. My experience includes developing custom client API's,
+      WordPress sites, CraftCMS sites, and going forward - lightning fast
+      JAMstack static sites! I'm happy to work with you for one-off projects or
+      on a long-term retainer basis.
     actions:
       - label: Let's talk
         url: /contact
