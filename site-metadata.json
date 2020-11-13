@@ -44,7 +44,7 @@
             {
                 "label": "Made with Stackbit.",
                 "url": "https://www.stackbit.com",
-                "style": "link",
+                "style": "button",
                 "new_window": true
             }
         ],
