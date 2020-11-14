@@ -21,7 +21,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Portfolio
     subtitle: // recent client success stories
     projects_number: 6
