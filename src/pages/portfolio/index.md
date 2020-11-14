@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: If you want your future site to be fe
 layout_style: tiles
 template: portfolio
 ---
