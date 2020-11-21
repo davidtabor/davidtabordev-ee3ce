@@ -1,7 +1,7 @@
 ---
 title: DigitalPros
 subtitle: Full-Custom new site for a digial agency with whom I partnered.
-date: '2019-02-26'
+date: '2019-05-26'
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg
 template: project
