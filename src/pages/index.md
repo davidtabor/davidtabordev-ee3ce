@@ -51,7 +51,7 @@ sections:
             new_window: false
             type: action
           - label: SC ENT
-            url: lorem-ipsum
+            url: /portfolio/project-5
             style: link
             icon_class: lorem-ipsum
             new_window: false
