@@ -58,9 +58,8 @@ sections:
             type: action
       - title: Existing Site overhaul/maintenance
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          In over your head with a site you built? Tired of your current
+          development team? Let me step in and help!
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
