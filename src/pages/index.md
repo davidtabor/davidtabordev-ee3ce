@@ -47,7 +47,7 @@ sections:
           - label: bestbench.com
             url: portfolio/project-1
             style: icon
-            icon_class: fa-linkedin
+            icon_class: fa-external-link-alt
             new_window: false
             type: action
       - title: Service Title
