@@ -29,7 +29,7 @@ sections:
           - 'Request For Proposal '
           - Issue with Existing Site
           - ''
-          - New Business Inquiry
+          - Other
       - input_type: textarea
         name: message
         label: Message
