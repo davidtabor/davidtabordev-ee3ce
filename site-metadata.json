@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Resume",
                 "url": "/images/resume/DavidTaborResume09.02.2020.pdf",
                 "style": "link",
