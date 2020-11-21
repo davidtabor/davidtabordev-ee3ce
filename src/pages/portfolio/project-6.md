@@ -1,6 +1,6 @@
 ---
 title: NCLL
-subtitle: Optional Project Subtitle
+subtitle: Full-Custom new e-commerce site for a religious advocacy group
 date: '2018-12-18'
 thumb_image: images/6_thumb.jpg
 image: images/6.jpg
