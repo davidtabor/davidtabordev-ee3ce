@@ -1,5 +1,5 @@
 ---
-title: bestbench.com
+title: Best
 subtitle: Full-custom site for a recruiting firm
 date: '2020-10-15'
 thumb_image: images/bestbenchpreview.jpg
