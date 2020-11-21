@@ -34,7 +34,7 @@ sections:
     title: Services
     subtitle: >-
       If you don't see a service that meets your needs, reach out to get a
-      custom quote
+      custom quote!
     col_number: two
     is_numbered: true
     grid_items:
