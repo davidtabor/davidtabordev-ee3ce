@@ -50,6 +50,12 @@ sections:
             icon_class: fa-external-link-alt
             new_window: false
             type: action
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
