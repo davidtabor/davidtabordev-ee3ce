@@ -45,7 +45,7 @@ sections:
           information, I can build and design to your specifications!
         actions:
           - label: 'Ex: bestbench.com'
-            url: lorem-ipsum
+            url: portfolio/project-1/
             style: link
             icon_class: lorem-ipsum
             new_window: false
