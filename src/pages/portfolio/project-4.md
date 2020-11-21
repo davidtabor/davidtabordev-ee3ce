@@ -2,7 +2,7 @@
 title: DigitalPros
 subtitle: Full-Custom new site for a digial agency with whom I partnered.
 date: '2019-05-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/digitalprospreview.jpg
 image: images/4.jpg
 template: project
 excerpt: 'CraftCMS3, Bootstrap 4, PHP, Twig, JS, HTML, CSS3'
