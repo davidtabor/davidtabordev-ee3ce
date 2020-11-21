@@ -9,7 +9,7 @@ sections:
       fill out the contact form below or send me a message via
       [LinkedIn](https://https://www.linkedin.com/in/davidltabor/),
       [Angel.Co](https://https://angel.co/u/david-tabor-2), or
-      [Telegram](https://https://t.me/taborneighbor).
+      [Telegram](https://https://t.me/taborneighbor)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
