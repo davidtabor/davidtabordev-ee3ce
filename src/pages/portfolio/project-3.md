@@ -2,7 +2,7 @@
 title: Resource One Fundraising
 subtitle: Full-Custom new site for an existing customer
 date: '2019-06-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/r1preview.jpg
 image: images/3.jpg
 template: project
 excerpt: 'CraftCMS3, Bootstrap 4, PHP, Twig, JS, HTML, CSS3'
