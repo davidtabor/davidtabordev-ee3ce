@@ -62,9 +62,10 @@ sections:
           development team? Let me step in and help!
       - title: Branding & Design
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Design services include UI/UX overhauls, freshening up your branding
+          scheme, or even a complete site redesign. Design consultancy can be as
+          in-depth or minimal as your situation demands. Let's get your site,
+          new or old, looking brand new!
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
