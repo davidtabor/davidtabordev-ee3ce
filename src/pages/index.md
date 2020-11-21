@@ -43,13 +43,7 @@ sections:
           Whether you need a site with a full-featured CMS like Craft or
           WordPress, or a sleek site that presents just the essential
           information, I can build and design to your specifications!
-        actions:
-          - label: SC ENT
-            url: /portfolio/project-5
-            style: link
-            icon_class: lorem-ipsum
-            new_window: false
-            type: action
+        actions: []
       - title: Existing Site overhaul/maintenance
         content: >-
           In over your head with a site you built? Tired of your current
