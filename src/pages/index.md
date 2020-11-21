@@ -60,7 +60,7 @@ sections:
         content: >-
           In over your head with a site you built? Tired of your current
           development team? Let me step in and help!
-      - title: Service Title
+      - title: Branding & Design
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
