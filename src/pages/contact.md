@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - New Business Inquiry
-          - Sponsorship
+          - Issue with Existing Site
           - Other
           - New Business Inquiry
       - input_type: textarea
