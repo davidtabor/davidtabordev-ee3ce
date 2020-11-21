@@ -1,6 +1,6 @@
 ---
 title: 'SC ENT '
-subtitle: Optional Project Subtitle
+subtitle: Full-Custom new site for a ENT Specialists practice representing 8 locations
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 image: images/5.jpg
