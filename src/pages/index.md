@@ -50,7 +50,7 @@ sections:
             icon_class: fa-external-link-alt
             new_window: false
             type: action
-          - label: lorem-ipsum
+          - label: SC ENT
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
