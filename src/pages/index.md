@@ -60,7 +60,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: /contact
             style: button
             icon_class: lorem-ipsum
             new_window: false
