@@ -3,7 +3,7 @@ title: NCLL
 subtitle: Full-Custom new e-commerce site for a religious advocacy group
 date: '2018-12-18'
 thumb_image: images/ncllpreview.jpg
-image: images/6.jpg
+image: images/ncllpreview.jpg
 template: project
 excerpt: 'CraftCMS3, CraftCommerce, Bootstrap 4, PHP, Twig, JS, HTML, CSS3'
 ---
