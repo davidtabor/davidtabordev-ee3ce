@@ -21,7 +21,7 @@ sections:
         style: button
       - label: View Resume
         url: /images/resume/DavidTaborResume09.02.2020.pdf
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
