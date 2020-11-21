@@ -40,9 +40,9 @@ sections:
     grid_items:
       - title: 'Custom Site development '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Whether you need a site with a full-featured CMS like Craft or
+          WordPress, or a sleek site that presents just the essential
+          information, I can build and design to your specifications!
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
