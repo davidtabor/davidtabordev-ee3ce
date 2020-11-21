@@ -29,7 +29,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-          - lorem-ipsum
+          - New Business INquiry
       - input_type: textarea
         name: message
         label: Message
