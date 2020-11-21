@@ -1,7 +1,7 @@
 ---
 title: Great Homeschool Conventions
 subtitle: Full-Custom new site for an existing customer
-date: 2019-0-30
+date: '2019-08-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
 template: project
