@@ -1,6 +1,6 @@
 ---
 title: Resource One Fundraising
-subtitle: Optional Project Subtitle
+subtitle: Full-Custom new site for an existing customer
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 image: images/3.jpg
