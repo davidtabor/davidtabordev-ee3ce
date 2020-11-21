@@ -1,11 +1,11 @@
 ---
 title: bestbench.com
 subtitle: Full-custom site for a recruiting firm
-date: '2019-05-10'
+date: 201-05-10
 thumb_image: images/bestbenchpreview.jpg
 image: images/spectacular-lettuce.jpg
 template: project
-excerpt: 
+excerpt: >-
   full-stack, CraftCMS3, Bootstrap 4, PHP, design, development,
   content-modeling, copy-writing, LAMPstack, Twig, JS, HTML, CSS3, TailwindCSS,
   Linode, SysAdmin, Composer, UI/UX design
