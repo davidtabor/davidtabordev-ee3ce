@@ -44,12 +44,6 @@ sections:
           WordPress, or a sleek site that presents just the essential
           information, I can build and design to your specifications!
         actions:
-          - label: 'Ex: bestbench.com,'
-            url: portfolio/project-1
-            style: link
-            icon_class: fa-external-link-alt
-            new_window: false
-            type: action
           - label: SC ENT
             url: /portfolio/project-5
             style: link
