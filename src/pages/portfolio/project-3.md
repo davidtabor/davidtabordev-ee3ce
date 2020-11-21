@@ -11,4 +11,6 @@ This site for R1 Fundraising made extensive use of CraftCMS's custom content str
 
 This site pushed the limits in terms of lightweight CSS-only front-end design. Performance-heavy images were avoided whenever possible and losslessly compressed when unavoidable.
 
+I was responsible for 90% of the front-end implementation and content-modeling. 
+
 [ResourceOneFundraising.com](https://ResourceOneFundraising.com)
