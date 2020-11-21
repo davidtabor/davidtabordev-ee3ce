@@ -16,7 +16,7 @@ sections:
       I'm happy to work with you for one-off projects or on a long-term retainer
       basis.
     actions:
-      - label: Let's talk
+      - label: Let's talk!
         url: /contact
         style: button
   - section_id: latest-projects
