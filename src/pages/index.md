@@ -32,7 +32,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: An optional subtitle of the section
+    subtitle: If you don't see a service that meets your
     col_number: two
     is_numbered: true
     grid_items:
