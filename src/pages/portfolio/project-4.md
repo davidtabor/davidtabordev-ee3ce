@@ -1,6 +1,6 @@
 ---
 title: DigitalPros
-subtitle: Optional Project Subtitle
+subtitle: Full-Custom new site for an existing customer
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg
