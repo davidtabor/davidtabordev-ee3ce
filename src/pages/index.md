@@ -54,7 +54,7 @@ sections:
           scheme, or even a complete site redesign. Design consultancy can be as
           in-depth or minimal as your situation demands. Let's get your site,
           new or old, looking brand new!
-      - title: Service title
+      - title: Something Else?
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
