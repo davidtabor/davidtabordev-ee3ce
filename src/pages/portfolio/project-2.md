@@ -1,6 +1,6 @@
 ---
 title: Great Homeschool Conventions
-subtitle: Full-Custom
+subtitle: Full-Custom site
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
