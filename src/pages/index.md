@@ -44,7 +44,7 @@ sections:
           WordPress, or a sleek site that presents just the essential
           information, I can build and design to your specifications!
         actions:
-          - label: lorem-ipsum
+          - label: 'Ex: best '
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
