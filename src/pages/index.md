@@ -56,7 +56,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: false
             type: action
-      - title: Existing Site overhaul
+      - title: Existing Site overhaul/maintenance
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
