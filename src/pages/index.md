@@ -23,7 +23,9 @@ sections:
     type: section_portfolio
     layout_style: tiles
     title: Portfolio
-    subtitle: // recent client success stories
+    subtitle: >-
+      If you want your future site to be featured here in a couple months...
+      click the contact link above to get the ball rolling ;)
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
