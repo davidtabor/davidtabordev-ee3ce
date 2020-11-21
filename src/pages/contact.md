@@ -28,7 +28,7 @@ sections:
         options:
           - 'Request For Proposal '
           - Issue with Existing Site
-          - 'Hire me '
+          - 'Hire me for '
           - Other
       - input_type: textarea
         name: message
