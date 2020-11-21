@@ -46,7 +46,7 @@ sections:
         actions:
           - label: bestbench.com
             url: portfolio/project-1
-            style: icon
+            style: link
             icon_class: fa-external-link-alt
             new_window: false
             type: action
