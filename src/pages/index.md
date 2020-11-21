@@ -58,5 +58,12 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
 template: advanced
 ---
