@@ -56,8 +56,9 @@ sections:
           new or old, looking brand new!
       - title: Something Else?
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Don't see what you need? Feel free to reach out for a custom quote! We
+          can work togther to meet your unique needs and get you up and running
+          quickly!
         actions:
           - label: Custom Quote
             url: /contact
