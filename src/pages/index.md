@@ -23,7 +23,7 @@ sections:
         url: /images/resume/DavidTaborResume09.02.2020.pdf
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         type: action
   - section_id: latest-projects
     type: section_portfolio
