@@ -20,8 +20,7 @@ sections:
         url: /contact
         style: button
       - label: View Resume
-        url: >-
-          b/davidtabordev-ee3ce/static/images/resume/DavidTaborResume09.02.2020.pdf
+        url: /images/resume/DavidTaborResume09.02.2020.pdf
         style: link
         icon_class: lorem-ipsum
         new_window: false
