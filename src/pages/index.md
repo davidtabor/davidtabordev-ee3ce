@@ -21,7 +21,7 @@ sections:
         style: button
       - label: View Resume
         url: >-
-          /Users/davidtabor/Documents/GitHub/davidtabordev-ee3ce/static/images/resume/DavidTaborResume09.02.2020.pdf
+          b/davidtabordev-ee3ce/static/images/resume/DavidTaborResume09.02.2020.pdf
         style: link
         icon_class: lorem-ipsum
         new_window: false
