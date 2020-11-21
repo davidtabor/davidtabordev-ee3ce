@@ -2,7 +2,7 @@
 title: Great Homeschool Conventions
 subtitle: Full-Custom new site for an existing customer
 date: '2019-08-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/ghcpreview.jpg
 image: images/2.jpg
 template: project
 excerpt: 'CraftCMS3, Bootstrap 4, PHP, Twig, JS, HTML, CSS3, TailwindCSS'
