@@ -47,7 +47,7 @@ sections:
           - label: 'Ex: bestbench.com'
             url: portfolio/project-1
             style: link
-            icon_class: lorem-ipsum
+            icon_class: fa-external-link-alt
             new_window: false
             type: action
       - title: Service Title
