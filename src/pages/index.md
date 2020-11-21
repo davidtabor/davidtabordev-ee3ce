@@ -32,7 +32,9 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: If you don't see a service that meets your
+    subtitle: >-
+      If you don't see a service that meets your needs, reach out to get a
+      custom quote
     col_number: two
     is_numbered: true
     grid_items:
