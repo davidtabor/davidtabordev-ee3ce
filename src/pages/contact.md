@@ -28,7 +28,7 @@ sections:
         options:
           - 'Request For Proposal '
           - Issue with Existing Site
-          - Other
+          - ''
           - New Business Inquiry
       - input_type: textarea
         name: message
