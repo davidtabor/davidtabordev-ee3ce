@@ -3,7 +3,7 @@ title: 'SC ENT '
 subtitle: Full-Custom new site for a ENT Specialists practice representing 8 locations
 date: '2019-01-05'
 thumb_image: images/scentprview.jpg
-image: images/5.jpg
+image: images/scentprview.jpg
 template: project
 excerpt: 'CraftCMS3, Bootstrap 4, PHP, Twig, JS, HTML, CSS3'
 ---
