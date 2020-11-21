@@ -1,7 +1,7 @@
 ---
 title: bestbench.com
 subtitle: Full-custom site for a recruiting firm
-date: 2020-1-10
+date: '2020-10-15'
 thumb_image: images/bestbenchpreview.jpg
 image: images/spectacular-lettuce.jpg
 template: project
