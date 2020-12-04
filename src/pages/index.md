@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
       - label: View Resume
-        url: /images/resume/DavidTaborResume09.02.2020.pdf
+        url: /images/resume/DavidTaborResume11.30.2020.pdf
         style: button
         icon_class: lorem-ipsum
         new_window: true
