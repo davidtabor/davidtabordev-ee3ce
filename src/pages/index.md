@@ -14,7 +14,7 @@ sections:
       My experience includes developing custom client API's, WordPress sites,
       CraftCMS sites, and going forward - lightning fast JAMstack static sites
       like this one! I'm happy to work with you for one-off projects or on a
-      long-term retainer basis.
+      long-term retainer basis. 
     actions:
       - label: Let's talk!
         url: /contact
